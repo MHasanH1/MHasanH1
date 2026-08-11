@@ -55,3 +55,30 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MHasanH1&theme=tokyonight&hide_border=true" width="98%" />
 </p>
+
+---
+
+### 💼 Work Experience
+
+- 🚀 **Full Stack Software Engineer** @ Raya Yaganeh Vida *(Jun 2025 - Aug 2026)*
+  - Developed and maintained web applications using **React, Nuxt.js, and Node.js**.
+  - Engineered backend systems using **PostgreSQL, MongoDB, and Prisma**.
+  - Built real-time monitoring and control systems for **greenhouse projects**.
+  - Contributed to enterprise banking monitoring platforms for **Shahr Bank** and **Melli Bank**.
+
+- 💻 **Front End Developer** @ Abar Hoosh *(Jan 2025 - May 2025)*
+  - Built responsive web apps using **React.js** and managed global state.
+  - Developed reusable UI component libraries and integrated REST APIs.
+
+- 🎙️ **Front End Intern** @ Roshan *(Apr 2025 - May 2025)*
+  - Developed a voice recognition app flow (recording, processing, results) using React.
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🌿 **Greenhouse Control System** | Real-time monitoring & automation platform for IoT sensor devices. | React, Nuxt.js, Node.js, Prisma, PostgreSQL |
+| 🏛️ **Banking Monitoring Platform** | Enterprise software maintenance & feature development for Shahr & Melli Banks.
+| 🎙️ **Speech-to-Text App Flow** | Interactive audio recording & real-time speech transcription dashboard. | React, REST API |
