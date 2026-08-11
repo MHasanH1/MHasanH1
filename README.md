@@ -48,13 +48,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHasanH1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mohammad Hasan's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHasanH1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MHasanH1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHasanH1&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHasanH1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MHasanH1&theme=tokyonight&hide_border=true" width="98%" />
+</p>
