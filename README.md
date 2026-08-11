@@ -82,3 +82,25 @@
 | 🌿 **Greenhouse Control System** | Real-time monitoring & automation platform for IoT sensor devices. | React, Nuxt.js, Node.js, Prisma, PostgreSQL |
 | 🏛️ **Banking Monitoring Platform** | Enterprise software maintenance & feature development for Shahr & Melli Banks.
 | 🎙️ **Speech-to-Text App Flow** | Interactive audio recording & real-time speech transcription dashboard. | React, REST API |
+
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  
+  <a href="mailto:hasan84heydari@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed & Built with ❤️ by Mohammad Hasan Heydari</sub>
+</div>
